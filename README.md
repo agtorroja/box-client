@@ -10,7 +10,7 @@
 
   <p align="center">
     <h3 align="center">Box Delivery - APP</h3>
-    <a href="https://github.com/Francisco-Villanueva/box-api"><strong>See the backend repository - API »</strong></a>
+    <a href="https://github.com/agtorroja/box-api"><strong>See the backend repository - API »</strong></a>
   </p>
 </div>
 
